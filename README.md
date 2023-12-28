@@ -1,5 +1,14 @@
 # `Auto-evaluator` :brain: :memo:
 
+> **Note**
+> See the HuggingFace space for this app: https://huggingface.co/spaces/rlancemartin/auto-evaluator
+
+> **Note**
+> See the hosted app: https://autoevaluator.langchain.com/
+
+> **Note**
+> Code for the hosted app is also open source: https://github.com/langchain-ai/auto-evaluator
+
 This is a lightweight evaluation tool for question-answering using Langchain to:
 
 - Ask the user to input a set of documents of interest
